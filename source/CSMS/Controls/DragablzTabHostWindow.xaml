@@ -17,9 +17,6 @@
         Style="{DynamicResource DefaultWindow}"
         d:DataContext="{d:DesignInstance CSMSControls:DragablzTabHostWindow}"
         >
-    <Controls:MetroWindow.WindowButtonCommands>
-        <Controls:WindowButtonCommands Template="{DynamicResource MahApps.Metro.Templates.WindowButtonCommands.Win10}" />
-    </Controls:MetroWindow.WindowButtonCommands>
     <Grid>
         <dragablz:TabablzControl Focusable="False" Name="TabsContainer" ClosingItemCallback="{Binding CloseItemCommand}">
             <dragablz:TabablzControl.Resources>

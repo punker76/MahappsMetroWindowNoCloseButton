@@ -85,9 +85,6 @@
             </StackPanel>
         </Controls:WindowCommands>
     </Controls:MetroWindow.LeftWindowCommands>
-    <Controls:MetroWindow.WindowButtonCommands>
-        <Controls:WindowButtonCommands Template="{DynamicResource MahApps.Metro.Templates.WindowButtonCommands.Win10}" />
-    </Controls:MetroWindow.WindowButtonCommands>
     <Grid>
         <!-- Is checking license -->
         <Grid Visibility="{Binding IsCheckingLicenseInfo, Converter={StaticResource BooleanToVisibilityCollapsedConverter}}">
