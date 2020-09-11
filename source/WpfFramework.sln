@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintCostCalculator3d", "CSMS\PrintCostCalculator3d.csproj", "{37836D59-4A5D-4691-8FBC-C89C94EB7657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Debug|x64.ActiveCfg = Debug|x64
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Debug|x64.Build.0 = Debug|x64
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Release|x64.ActiveCfg = Release|x64
+		{37836D59-4A5D-4691-8FBC-C89C94EB7657}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60C06C5-ED12-46AE-809A-538F7FF0AA47}
+	EndGlobalSection
+EndGlobal
